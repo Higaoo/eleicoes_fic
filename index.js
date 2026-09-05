@@ -1,5 +1,5 @@
 import express from 'express'
-import candidatoRouter from './routes/candidatoRouter.js'
+import candidatoRouter from './src/routes/candidatoRoutes.js'
 import candidatoViewRouter from './src/routes/candidatoViewRouter.js'
 import path from 'node:path'
 

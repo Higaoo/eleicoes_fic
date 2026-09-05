@@ -1,5 +1,5 @@
 import { Router } from "express";
-import { candidatos } from "../dados/candidatos.json";
+import { candidatos } from "../dados/candidatos.js";
 
 const candidatoRouter = Router();
 
